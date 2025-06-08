@@ -1,15 +1,15 @@
-## Hi there 👋
-<h1 align="center">Hi there, I'm Ajitesh Kumara 👋</h1>
-<h3 align="center">🚀 Full-Stack Developer | 🌐 Web Enthusiast | 💡 Constant Learner</h3>
+## Hi there 
+<h1 align="center">Hi there, I'm Ajitesh Kumara </h1>
+<h3 align="center"> Full-Stack Developer |  Web Enthusiast |  Constant Learner</h3>
 
 ---
 
-### About Me 🚀
+### About Me 
 I'm a passionate full-stack developer with a knack for creating secure, efficient, and scalable web applications. My journey in tech started with a love for solving problems and led me to dive into the world of code, where I continue to push the boundaries of what's possible!
 
-- 🌱 I’m currently diving deeper into **React**, **Node.js**, and **Cloud Computing**.
-- 🔭 Building something amazing with **Reactify** - a full-stack transaction management app!
-- ⚡ Fun fact: I can debug anything… except my coffee intake ☕️.
+-  I’m currently diving deeper into **React**, **Node.js**, and **Cloud Computing**.
+-  Building something amazing with **Reactify** - a full-stack transaction management app!
+-  Fun fact: I can debug anything… except my coffee intake ☕️.
 
 ---
 
@@ -29,7 +29,7 @@ I'm a passionate full-stack developer with a knack for creating secure, efficien
 
 ---
 
-### 🚀 Latest Project: Reactify
+###  Latest Project: Reactify
 A full-stack transaction management app that lets users transfer funds seamlessly. Key features:
 - **Secure Transactions**: Implemented JWT-based authentication for data protection.
 - **User-Friendly Interface**: Built with React & Tailwind CSS for a smooth experience.
@@ -60,8 +60,8 @@ A full-stack transaction management app that lets users transfer funds seamlessl
 ---
 
 ### Let's Connect 🌐
-- 📧 Email: [ashutoshshukla8970@gmail.com](mailto:ashutoshshukla8970@gmail.com)
-- 🌐 [LinkedIn](https://www.linkedin.com/in/ashutosh-shukla)
+- 📧 Email: [ajitesh004@gmail.com](mailto:ajitesh004@gmail.com)
+- 🌐 [LinkedIn](https://www.linkedin.com/in/ajitesh-kumara/)
 
 ---
 
