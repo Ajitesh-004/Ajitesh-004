@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Ajitesh Kumara </h1>
-<h3 align="center">Chess Captain ♟ | Full-Stack Developer  | AI & ML Enthusiast  | Constant Learner </h3>
+<h3 align="center">Chess Captain  | Full-Stack Developer  | AI & ML Enthusiast  | Constant Learner </h3>
 
 ---
 
