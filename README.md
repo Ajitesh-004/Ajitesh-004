@@ -1,74 +1,92 @@
-## Hi there 
 <h1 align="center">Hi there, I'm Ajitesh Kumara </h1>
-<h3 align="center"> Full-Stack Developer |  Web Enthusiast |  Constant Learner</h3>
+<h3 align="center">Chess Captain ♟ | Full-Stack Developer  | AI & ML Enthusiast  | Constant Learner </h3>
 
 ---
 
-### About Me 
-I'm a passionate full-stack developer with a knack for creating secure, efficient, and scalable web applications. My journey in tech started with a love for solving problems and led me to dive into the world of code, where I continue to push the boundaries of what's possible!
+### About Me
+I'm a passionate Computer Science Engineering student at **CMR Institute of Technology**, Bangalore, with a strong foundation in full-stack development and a deep curiosity for AI, ML, and automation. From building **AI-powered applications** to leading chess tournaments, I believe in **continuous learning, creativity, and community**.
 
--  I’m currently diving deeper into **React**, **Node.js**, and **Cloud Computing**.
--  Building something amazing with **Reactify** - a full-stack transaction management app!
--  Fun fact: I can debug anything… except my coffee intake ☕️.
+-  Currently exploring **Generative AI**, **NLP**, and **Cloud Deployment**
+-  Working on **UniTest** – An AI-based question paper generator using NLP + Bloom’s Taxonomy
+-  Built a **Carbon Footprint Tracker**, **Used Car Price Predictor**, and a **GPS Toll System**
+-  Represented **VTU at South Zone Inter-University Chess Tournament** & won multiple awards
+-  Fun Fact: I once optimized code so well, it finished running before I hit Enter 😄
 
 ---
 
-### My Tech Stack 🛠️
+### Tech Stack 
 <p align="center">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white">
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black">
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white">
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white">
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white">
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
+  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+  <img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white" />
 </p>
 
 ---
 
-###  Latest Project: Reactify
-A full-stack transaction management app that lets users transfer funds seamlessly. Key features:
-- **Secure Transactions**: Implemented JWT-based authentication for data protection.
-- **User-Friendly Interface**: Built with React & Tailwind CSS for a smooth experience.
-- **Optimized for Performance**: Boosted transaction speed by 30%!
+### Featured Projects 
 
-> **Want to see more?** Check out my pinned repositories below or [visit my GitHub repos](https://github.com/Ashutosh-Shukla-036?tab=repositories).
+####  UniTest – AI-Based Question Paper Generator  
+An NLP + ML-powered app that generates Bloom’s Taxonomy-aligned questions from any syllabus.  
+- Used **T5 Transformer**, **RAG**, and **NER** techniques  
+- Supports cognitive-level classification for exams  
+- Ideal for educators & institutions  
+**Tech:** Python, Tkinter, Flask, Gemini API
+
+####  Carbon Footprint Tracker  
+A web app to track and visualize your daily carbon emissions with real-time AI insights.  
+- Built interactive graphs, insights, and a prototype AI analysis system  
+**Next Phase:** IoT integration and AI model enhancement  
+**Tech:** React.js, Tailwind CSS, Node.js, NeonDB, PostgreSQL, Vercel, Render
+
+####  Used Car Price Prediction  
+Machine learning model that predicts the market value of used cars based on mileage, fuel type, brand, and more.  
+- Preprocessed data, handled outliers, and used models like **Random Forest**, **Linear Regression**, and **XGBoost**  
+- Achieved strong R² and RMSE metrics on test data  
+**Tech:** Python, Pandas, Sklearn, Jupyter Notebook
+
+####  GPS-Based Toll Collection System  
+Smart toll system using shortest path algorithms and a friendly UI  
+**Tech:** Python, Tkinter, NetworkX, Pygame
 
 ---
 
-### GitHub Stats 📊
+### GitHub Stats 
 
-#### 📊 Most Used Languages:
+####  Most Used Languages
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ajitesh-004&layout=compact&theme=tokyonight" alt="Most Used Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ajitesh-004&layout=compact&theme=tokyonight" />
 </p>
 
-#### 📈 Contribution Stats:
+####  Contribution Streak
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Ajitesh-004&theme=tokyonight&hide_border=true" alt="Contribution Streaks">
+  <img src="https://streak-stats.demolab.com/?user=Ajitesh-004&theme=tokyonight&hide_border=true" />
 </p>
 
-#### 🏆 Other Stats:
+####  Overall GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ajitesh-004&show_icons=true&theme=tokyonight" alt="GitHub Stats">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ajitesh-004&theme=tokyonight" alt="Profile Summary">
+  <img src="https://github-readme-stats.vercel.app/api?username=Ajitesh-004&show_icons=true&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ajitesh-004&theme=tokyonight" />
 </p>
 
 ---
 
-### Let's Connect 🌐
-- 📧 Email: [ajitesh004@gmail.com](mailto:ajitesh004@gmail.com)
-- 🌐 [LinkedIn](https://www.linkedin.com/in/ajitesh-kumara/)
+### Let’s Connect  
+-  [LinkedIn](https://www.linkedin.com/in/ajitesh-kumara/)  
+-  [ajitesh004@gmail.com](mailto:ajitesh004@gmail.com)  
+-  [Explore My Projects](https://github.com/Ajitesh-004)
 
 ---
 
-### Fun Fact 💡
-I believe that every bug teaches you something new! Debugging is just my way of telling the code, "I’m smarter than you." 😎
+### Bonus Fun Fact 
+I once optimized code so well, it finished running before I hit Enter 
 
 ---
 
-#### Thanks for visiting my profile! ✌️ Let's build something amazing together!
-
+> Thanks for stopping by! Let’s create, innovate, and build the future—one project at a time. 
