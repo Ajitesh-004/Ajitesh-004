@@ -62,11 +62,6 @@ Smart toll system using shortest path algorithms and a friendly UI
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ajitesh-004&layout=compact&theme=tokyonight" />
 </p>
 
-####  Contribution Streak
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Ajitesh-004&theme=tokyonight&hide_border=true" />
-</p>
-
 ####  Overall GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Ajitesh-004&show_icons=true&theme=tokyonight" />
@@ -86,5 +81,3 @@ Smart toll system using shortest path algorithms and a friendly UI
 Chess helped me debug code—both need strategy and patience. 
 
 ---
-
-> Thanks for stopping by! Let’s create, innovate, and build the future—one project at a time. 
