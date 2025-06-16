@@ -64,7 +64,7 @@ Smart toll system using shortest path algorithms and a friendly UI
 
 ####  Contribution Streak:
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Ashutosh-Shukla-036&theme=tokyonight&hide_border=true" alt="Contribution Streaks">
+  <img src="https://streak-stats.demolab.com/?user=Ajitesh-004&theme=tokyonight&hide_border=true" alt="Contribution Streaks">
 </p>
 
 ####  Overall GitHub Stats
