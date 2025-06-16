@@ -62,6 +62,11 @@ Smart toll system using shortest path algorithms and a friendly UI
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ajitesh-004&layout=compact&theme=tokyonight" />
 </p>
 
+####  Contribution Streak:
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=Ashutosh-Shukla-036&theme=tokyonight&hide_border=true" alt="Contribution Streaks">
+</p>
+
 ####  Overall GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Ajitesh-004&show_icons=true&theme=tokyonight" />
